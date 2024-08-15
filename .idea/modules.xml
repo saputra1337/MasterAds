@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MasterAds.iml" filepath="$PROJECT_DIR$/.idea/modules/MasterAds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Mastermodul/MasterAds.Mastermodul.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MasterAds.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MasterAds.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MasterAds.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MasterAds.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MasterAds.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MasterAds.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MasterAds.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MasterAds.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
